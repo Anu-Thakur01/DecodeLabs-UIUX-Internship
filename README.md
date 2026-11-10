@@ -1,6 +1,6 @@
 # DecodeLabs UI/UX Design Internship
 
-- **Intern:** Anu Hajam
+- **Intern:** Anu Kumari Hajam
 - **Program:** UI/UX Design Internship, Batch 2026, powered by DecodeLabs
 - **Duration:** October 30 – November 30, 2026 (4 weeks, one project per week)
 
