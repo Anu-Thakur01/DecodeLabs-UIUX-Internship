@@ -116,7 +116,7 @@ Designed a detailed product information screen featuring:
 
 The complete project presentation is available as a PDF carousel, prepared for LinkedIn sharing.
 
-📄 [Uploading Fieldly_UIUX_Project3_Carousel.pdf…]()
+[Uploading Fieldly_UIUX_Project3_Carousel.pdf…]()
 
 
 ## Key Learnings
