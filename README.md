@@ -32,6 +32,8 @@ This repository documents my learning journey and contains the work completed th
 - Potential pain points, core needs, and design opportunities.
 
 **Key lesson:** Good UX starts with understanding people, not pixels.
+[Project_01_Empathy_Map_Anu_Hajam.pptx](https://github.com/user-attachments/files/34755269/Project_01_Empathy_Map_Anu_Hajam.pptx)
+
 
 ## Project 2: The Blueprint (Wireframing)
 
@@ -59,7 +61,8 @@ This repository documents my learning journey and contains the work completed th
 
 **Key lesson:** Visual design is not decoration. It is persuasion.
 
-[![Fieldly Product List](./Project-03-The-Visual-Identity/screens/product-list.png)](./Project-03-The-Visual-Identity)
+[Fieldly_UIUX_Project3_Carousel.pdf](https://github.com/user-attachments/files/34755255/Fieldly_UIUX_Project3_Carousel.pdf)
+
 
 ## Skills and Tools
 
