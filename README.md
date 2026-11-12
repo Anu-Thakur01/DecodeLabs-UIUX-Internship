@@ -18,7 +18,7 @@ This repository documents my learning journey and contains the work completed th
 |------|---------|-------|--------|
 | 1 | [The Empathy Map](./Project-01-Empathy-Map) | User persona, empathy mapping, and understanding user needs | Completed |
 | 2 | [The Blueprint](./Project-02-The-Blueprint) | Low-fidelity e-commerce homepage wireframing for STRIDE | Completed |
-| 3 | Coming soon | Upcoming project | Upcoming |
+| 3 | [The Visual Identity](./Project-03-The-Visual-Identity) | Style tile, color, typography, and high-fidelity screens for Fieldly | Completed |
 | 4 | Coming soon | Upcoming project | Upcoming |
 
 ## Project 1: The Empathy Map
@@ -47,6 +47,20 @@ This repository documents my learning journey and contains the work completed th
 
 **Key lesson:** Structure comes before style. A clear wireframe creates a strong foundation for the final visual design.
 
+## Project 3: The Visual Identity
+
+**The challenge:** A premium organic food delivery service wanted a modern, "fresh" look that communicates trust, health, and speed through color and fonts. The goal was to turn wireframes into a high-fidelity UI.
+
+**What I created:**
+- A Style Tile for Fieldly with an eight-color palette (Leaf Green, Earthy Brown, and Harvest Gold as the core) and a Playfair Display + Montserrat type pairing.
+- Three high-fidelity screens: Splash Screen, Product List, and Product Details.
+- Trust-building details such as organic certification badges, harvest time, and a "Rainy Day Comforts" suggestion.
+- A consistent 8-point spacing grid and accessible contrast ratios (WCAG AA).
+
+**Key lesson:** Visual design is not decoration. It is persuasion.
+
+[![Fieldly Product List](./Project-03-The-Visual-Identity/screens/product-list.png)](./Project-03-The-Visual-Identity)
+
 ## Skills and Tools
 
 **Skills:**
@@ -57,6 +71,10 @@ This repository documents my learning journey and contains the work completed th
 - Information hierarchy
 - User flow and wireframing
 - Low-fidelity interface design
+- Color theory and typography
+- High-fidelity UI design
+- Spacing systems (8-point grid)
+- Accessibility and contrast basics
 
 **Tools:**
 - Canva
@@ -68,6 +86,8 @@ This repository documents my learning journey and contains the work completed th
 Project 1 includes an illustrative persona that has not been validated through real user interviews. Further research with actual office professionals would be needed to validate the assumptions and improve the findings.
 
 Project 2 is a conceptual e-commerce wireframing exercise created for learning and practice.
+
+Project 3 is a conceptual brand and UI exercise for a fictional service, Fieldly. Imagery is used for demonstration only.
 
 ## Contact
 
