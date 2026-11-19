@@ -8,7 +8,7 @@ The Fieldly screens were ready, but stakeholders could not yet "feel" how the ap
 
 ## Live prototype
 
-- **Figma prototype (click through it):** [Open the Fieldly prototype](https://www.figma.com/proto/lbCpsaIUXJghFlvtDbFraI/UIUX_INTERN-Decodelabs?node-id=17-5&t=2UA1JaoPZ6575svO-1)
+- **Figma prototype (click through it):** [Open the Fieldly prototype]([https://www.figma.com/proto/lbCpsaIUXJghFlvtDbFraI/UIUX_INTERN-Decodelabs?node-id=17-5&t=2UA1JaoPZ6575svO-1](https://www.figma.com/proto/lbCpsaIUXJghFlvtDbFraI/UIUX_INTERN-Decodelabs?node-id=15-2&t=c0qReGD22FeJEoQN-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1))
 
 > Start at the Splash screen and tap **Get Started**.
 
