@@ -19,7 +19,7 @@ This repository documents my learning journey and contains the work completed th
 | 1 | [The Empathy Map](./Project-01-Empathy-Map) | User persona, empathy mapping, and understanding user needs | Completed |
 | 2 | [The Blueprint](./Project-02-The-Blueprint) | Low-fidelity e-commerce homepage wireframing for STRIDE | Completed |
 | 3 | [The Visual Identity](./Project-03-The-Visual-Identity) | Style tile, color, typography, and high-fidelity screens for Fieldly | Completed |
-| 4 | Coming soon | Upcoming project | Upcoming |
+| 4 | [The Living Prototype](./Project-04-The-Living-Prototype) | Interactive prototype, transitions, and micro-interactions for Fieldly | Completed |
 
 ## Project 1: The Empathy Map
 
@@ -63,6 +63,19 @@ This repository documents my learning journey and contains the work completed th
 
 [Fieldly_UIUX_Project3_Carousel.pdf](https://github.com/user-attachments/files/34755255/Fieldly_UIUX_Project3_Carousel.pdf)
 
+## Project 4: The Living Prototype
+
+**The challenge:** The Fieldly screens were ready, but stakeholders could not yet "feel" how the app works. They wanted to see transitions, button clicks, and the overall flow before the design goes to developers.
+
+**What I created:**
+- An interactive prototype that connects the Fieldly screens, from the Splash screen to the Order Placed confirmation.
+- Category tabs on the home screen (All, Vegetables, Fruits, Organic, Local), a "Rainy Day Comforts" screen, and a bottom navigation (Home, Explore, Favorites, Order, Profile).
+- A cart and order flow, with smooth screen transitions and button interactions.
+- A screen recording that shows the prototype in action.
+
+**Key lesson:** We do not just design screens, we design behavior.
+
+**Try it:** [Figma prototype](https://www.figma.com/proto/lbCpsaIUXJghFlvtDbFraI/UIUX_INTERN-Decodelabs?node-id=17-5&t=2UA1JaoPZ6575svO-1) | [Screen recording](PASTE-YOUR-VIDEO-LINK-HERE) | [Project 4 folder](./Project-04-The-Living-Prototype)
 
 ## Skills and Tools
 
@@ -78,10 +91,12 @@ This repository documents my learning journey and contains the work completed th
 - High-fidelity UI design
 - Spacing systems (8-point grid)
 - Accessibility and contrast basics
+- Interaction design and prototyping
+- Micro-interactions and screen transitions
 
 **Tools:**
 - Canva
-- Figma
+- Figma (design and Prototype mode)
 - PowerPoint
 
 ## Note
@@ -91,6 +106,8 @@ Project 1 includes an illustrative persona that has not been validated through r
 Project 2 is a conceptual e-commerce wireframing exercise created for learning and practice.
 
 Project 3 is a conceptual brand and UI exercise for a fictional service, Fieldly. Imagery is used for demonstration only.
+
+Project 4 is a conceptual interactive prototype for the same fictional service, Fieldly, created for learning and practice.
 
 ## Contact
 
