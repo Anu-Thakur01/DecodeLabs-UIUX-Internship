@@ -75,7 +75,7 @@ This repository documents my learning journey and contains the work completed th
 
 **Key lesson:** We do not just design screens, we design behavior.
 
-**Try it:** [Figma prototype](https://www.figma.com/proto/lbCpsaIUXJghFlvtDbFraI/UIUX_INTERN-Decodelabs?node-id=17-5&t=2UA1JaoPZ6575svO-1) | [Screen recording](PASTE-YOUR-VIDEO-LINK-HERE) | [Project 4 folder](./Project-04-The-Living-Prototype)
+**Try it:** [Figma prototype](https://www.figma.com/proto/lbCpsaIUXJghFlvtDbFraI/UIUX_INTERN-Decodelabs?node-id=15-2&t=c0qReGD22FeJEoQN-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)) | [Project 4 folder](./Project-04-The-Living-Prototype)
 
 ## Skills and Tools
 
